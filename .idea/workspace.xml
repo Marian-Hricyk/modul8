@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7156f5ac-a54b-4ae6-860a-9bb53d4c2f31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Diamant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Figur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Quad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Quad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Trapeze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ShapePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ShapePrinter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
