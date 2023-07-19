@@ -1,14 +1,6 @@
 package com.company;
 
-public class Shape implements Circle, Quad {
+public abstract class Shape implements Circle, Quad, Triangle, Diamant, Trapeze {
 
-
-
-    public String printShape(int nam){
-if(nam==1){
-    return Circle.nameC;
-}
-
-        return Quad.nameQ;
-    }
+    public abstract String printShape(int nam);
 }
