@@ -1,5 +1,8 @@
 package com.company;
 
-public interface Triangle {
-    String nameT = "Triangle";
+public class Triangle extends Shape{
+    @Override
+    public String getName() {
+        return "Triangle";
+    }
 }

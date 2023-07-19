@@ -1,8 +1,8 @@
 package com.company;
 
-public class Circle extends  Shape{
+public class Square extends Shape {
     @Override
     public String getName() {
-        return "Circle";
+        return "Square";
     }
 }

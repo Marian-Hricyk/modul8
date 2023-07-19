@@ -1,5 +1,8 @@
 package com.company;
 
-public interface Quad {
-    String nameQ = "Quad";
+public class Quad extends  Shape{
+    @Override
+    public String getName() {
+        return "Quad";
+    }
 }
